@@ -1,0 +1,111 @@
+2020-03-06 22:12:25,673 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml
+2020-03-06 22:12:30,362 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:HomeTask-6:0.0.1-SNAPSHOT @ C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml.
+2020-03-06 22:12:32,127 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/main/java
+2020-03-06 22:12:32,142 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/test/java
+2020-03-06 22:12:33,288 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-03-06 22:12:34,103 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:12:34,103 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:12:34,118 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:12:34,118 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:21:36,748 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-06 22:21:42,075 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:HomeTask-6:0.0.1-SNAPSHOT @ C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml.
+2020-03-06 22:21:43,208 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/main/java
+2020-03-06 22:21:43,208 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/test/java
+2020-03-06 22:21:43,368 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-03-06 22:21:43,540 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:21:43,540 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:21:43,540 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:21:43,540 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:22:01,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:01,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:22:01,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:01,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:22:10,148 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-06 22:22:10,627 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:HomeTask-6:0.0.1-SNAPSHOT @ C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml.
+2020-03-06 22:22:10,830 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/main/java
+2020-03-06 22:22:10,830 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/test/java
+2020-03-06 22:22:10,939 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-06 22:22:11,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:11,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:22:11,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:11,108 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:22:24,215 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:24,215 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:22:24,215 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:24,215 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:22:31,543 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6
+2020-03-06 22:22:31,543 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-06 22:22:35,039 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:35,039 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:22:35,039 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:22:35,039 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:23:07,495 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-06 22:23:07,996 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:HomeTask-6:0.0.1-SNAPSHOT @ C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml.
+2020-03-06 22:23:08,105 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/main/java
+2020-03-06 22:23:08,105 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HomeTask-6/src/test/java
+2020-03-06 22:23:08,215 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-06 22:23:08,389 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:08,389 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:23:08,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:08,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:23:15,846 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6
+2020-03-06 22:23:15,846 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-06 22:23:18,914 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:18,914 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:23:18,918 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:18,918 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:23:35,899 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:35,899 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:23:35,914 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:35,914 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:23:42,977 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6
+2020-03-06 22:23:42,977 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-06 22:23:48,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:48,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:23:48,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:23:48,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:27:21,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:27:21,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:27:21,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:27:21,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:27:22,142 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:27:22,142 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:27:22,142 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:27:22,142 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:29:14,542 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:29:14,542 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:29:14,542 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:29:14,542 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:30:43,749 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:30:43,764 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:30:43,764 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:30:43,764 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:32:18,279 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:32:18,279 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:32:18,282 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:32:18,282 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:32:35,064 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:32:35,064 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:32:35,064 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:32:35,064 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:33:05,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:05,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:33:05,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:05,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:33:41,021 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:41,021 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:33:41,037 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:41,037 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:33:49,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:49,077 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:33:49,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:33:49,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:36:46,593 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:HomeTask-6:0.0.1-SNAPSHOT @ C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\pom.xml.
+2020-03-06 22:36:46,962 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:36:46,962 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:36:46,962 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:36:46,962 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
+2020-03-06 22:36:47,443 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:36:47,443 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\main\resources
+2020-03-06 22:36:47,443 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-06 22:36:47,443 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\softwares\eclipse\bhavya git1 hometask-6\HomeTask-6\src\test\resources
